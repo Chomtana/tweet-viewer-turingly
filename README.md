@@ -16,6 +16,8 @@ Install the project dependencies:
 
 `npm install`
 
+And then change `config.template.json` to `config.json` and edit config.json to match api key and ... of your twitter developer account.
+
 ## Running
 
 Update config.json with your Twitter API credentials.
